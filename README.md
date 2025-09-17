@@ -1,14 +1,8 @@
-# 🌌 Gravity – Vanza Desviana
+# 🌌 thxmnia
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIybnEyYnVsMmliYWNpZnhzZDU4eXN5MHd5NTFhb29pZGRyMjJwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/144Q1gg0FkTEVG/giphy.gif" width="300"/>
 </p>
-
----
-
-## ✨ Tentang Gravity
-**Gravity** adalah representasi semangat untuk terus *narik mimpi lebih dekat* 🌠.  
-Project ini dibuat oleh **Vanza Desviana** sebagai simbol perjalanan menuju impian di dunia **Programming, Design, & Technology**.  
 
 ---
 
@@ -33,12 +27,5 @@ Project ini dibuat oleh **Vanza Desviana** sebagai simbol perjalanan menuju impi
 ## 🌌 Motto
 > *“Seperti gravitasi, aku ingin menarik semua mimpiku mendekat,  
 tanpa pernah berhenti berputar mengelilingi tekad.”* 🪐  
-
----
-
-## 📫 Kontak
-- ✉️ Email: **vanzadesviana0@gmail.com**  
-- 🌐 GitHub: [@Vanzades](https://github.com/Vanzades)  
-- 🎥 YouTube: *coming soon...*  
 
 ---
