@@ -1,7 +1,7 @@
 # 🌌 Gravity – Vanza Desviana
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FwdDhkN3Q2bWR5Y2xrM3c5NzRkbjl4Y2xma2pydmgzM3E2aXR6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9jQLa2xM4Z0xLz6pQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIybnEyYnVsMmliYWNpZnhzZDU4eXN5MHd5NTFhb29pZGRyMjJwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/144Q1gg0FkTEVG/giphy.gif" width="300"/>
 </p>
 
 ---
